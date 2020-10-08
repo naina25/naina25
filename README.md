@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naina25&layout=compact" alt="naina25" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naina25&show_icons=true&theme=radical" alt="naina25" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naina25&show_icons=true&theme=tokyonight" alt="naina25" /></p>
