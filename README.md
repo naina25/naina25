@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naina25" alt="naina25" /> </p>
 
-- 🔭 I’m currently working on [The Simon Game](https://github.com/naina25/SimonGame)
+<!--- 🔭 I’m currently working on [](https://github.com/naina25/SimonGame)-->
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js (Express)**
 
 - 👯 I’m looking to collaborate on **Javascript based projects**
 
