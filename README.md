@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! 👋, I'm Naina Upadhyay</h1>
-<h3 align="center">A CSE undergraduate student, an aspiring MERN stack developer . Currently working on front-end development . I’m passionate about learning new technologies.</h3>
+<h3 align="center">A CSE undergraduate student, an aspiring MERN stack developer . Currently working on Backend Development . I’m passionate about learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naina25" alt="naina25" /> </p>
 
