@@ -1,19 +1,21 @@
 <h1 align="center">Hi There! 👋, I'm Naina Upadhyay</h1>
-<h3 align="center">A CSE undergraduate student, an aspiring MERN stack developer . Currently working on Backend Development . I’m passionate about learning new technologies.</h3>
+<h3 align="center">A CSE postgraduate student, an aspiring MERN stack developer, excited to build, develop, and create . Currently working on Frontend development . I’m passionate about learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naina25" alt="naina25" /> </p>
 
 <!--- 🔭 I’m currently working on [](https://github.com/naina25/SimonGame)-->
 
-- 🌱 I’m currently learning **Node.js (Express)**
+- 🌱 I’m currently learning **React Redux**
 
-- 👯 I’m looking to collaborate on **Javascript based projects**
+- 👯 I’m looking to collaborate on **React.js based projects**
 
-- 💬 Ask me about **HTML5 ,CSS3,Bootstrap 4,Javascript(ES6), Jquery**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap 4, Javascript(ES6), React.js, Node.js**
 
 - 📫 How to reach me **nanu02d8@gmail.com**
 
-- ⚡ Fun fact **When i'm stressed, nothing helps me more than singing 🎤.**
+- 🖊️ Read my technical blogs <a href="https://nanu02d8.medium.com/" target="_blank">here</a>  on Medium.com
+
+- ⚡ Fun fact **When I'm stressed, nothing helps me more than singing 🎤.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -35,7 +37,13 @@
     </a>
     <a href="https://getbootstrap.com" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>  
-    </a> 
+    </a>
+    <a href="https://reactjs.org//" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></code>  
+    </a>
+     <a href="https://nodejs.org/en/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></code>  
+    </a>
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code> 
     </a> 
