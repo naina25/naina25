@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, Bootstrap 4, Javascript(ES6), React.js, Node.js**
 
-- 📫 How to reach me **nanu02d8@gmail.com**
+- 📫 Reach me at **nanu02d8@gmail.com**
 
 - 🖊️ Read my technical blogs <a href="https://nanu02d8.medium.com/" target="_blank">here</a>  on Medium.com
 
