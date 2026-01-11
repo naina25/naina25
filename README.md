@@ -1,9 +1,8 @@
 <h1 align="center">Hi There! 👋, I'm Naina Upadhyay</h1>
-<h3 align="center">A CSE postgraduate student, an aspiring MERN stack developer, excited to build, develop, and create . Currently working on Frontend development . I’m passionate about learning new technologies.</h3>
+<h3 align="center">A full stack .Net developer, still excited to learn, build, develop, and create. Currently learning more on .Net and React. I’m passionate about learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naina25" alt="naina25" /> </p>
 
-<!--- 🔭 I’m currently working on [](https://github.com/naina25/SimonGame)-->
 
 - 🌱 I’m currently learning **React Redux**
 
@@ -11,7 +10,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, Bootstrap 4, Javascript(ES6), React.js, Node.js**
 
-- 📫 Reach me at **nanu02d8@gmail.com**
+- 📫 Reach me at **nainaupadhyaywork25@gmail.com**
 
 - 🖊️ Read my technical blogs <a href="https://nanu02d8.medium.com/" target="_blank">here</a>  on Medium.com
 
